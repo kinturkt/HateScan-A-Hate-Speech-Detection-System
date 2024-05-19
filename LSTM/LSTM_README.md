@@ -1,1 +1,4 @@
-
+- Long Short-Term Memory (LSTM) models are a type of recurrent neural network (RNN) architecture specifically designed to address the limitations of traditional RNNs, particularly in handling long-term dependencies. <br>
+- LSTMs represent a significant advancement in recurrent neural network architecture, offering a powerful tool for modeling sequential data and capturing long-term dependencies.<br>
+- LSTMs process text sequentially and can model bidirectional context by combining forward and backward passes, whereas BERT processes text in a non-sequential manner, capturing bidirectional context in a single pass by using the transformer architecture. <br>
+- I am getting approx 92.99% accuracy using LSTM model.
