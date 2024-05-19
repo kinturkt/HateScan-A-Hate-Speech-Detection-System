@@ -1,5 +1,5 @@
--BERT (Bidirectional Encoder Representations from Transformers) is a pre-trained language model developed by Google. It represents a major advance in natural language processing (NLP) due to its innovative approach of bidirectional training of Transformer-based models. <br>
+- BERT (Bidirectional Encoder Representations from Transformers) is a pre-trained language model developed by Google. It represents a major advance in natural language processing (NLP) due to its innovative approach of bidirectional training of Transformer-based models. <br>
 - BERT's novel architecture and training approach enable it to achieve state-of-the-art performance on a wide range of NLP tasks without task-specific architecture modifications. <br>
 - BERT represents a significant leap in the ability of machines to understand natural language. Its introduction shifted the landscape of NLP research and application, inspiring the development of numerous variations and models based on its architecture. <br>
 - Generally, BERT are more computationally intensive due to its large number of parameters, highly scalable and capable of handling large datasets and complex tasks due to parallel processing capabilities in comparison to LSTM model. <br>
-- I am getting approx 98.16% accuracy using BERT Model. 
+- I am getting approx 98.16% accuracy using BERT Model.
