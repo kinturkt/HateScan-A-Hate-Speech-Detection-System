@@ -1,6 +1,18 @@
-# Hate-Speech-Detection
--> Hate speech is detected across a variety of online platforms, prominent social media networks, forums, and website comment sections are among the most frequent locations. <br>
--> One of the most popular platforms with the highest concentration of hate speech is Twitter. <br>
--> Therefore, we are using the Twitter dataset for this project to detect hate speech. <br>
--> I have used 2 models for model training:  <br>
- A) LSTM- Long Short-Term Memory    <br>    B) BERT- Bidirectional Encoder Representations from Transformers  <br> <br>
+🛑 Hate Speech Detection
+This repository contains an implementation of a Hate Speech Detection system using Machine Learning techniques. The goal of the project is to build a model that can classify text data into hate speech and non-hate speech, helping to automate the detection of harmful language online.
+
+🚀 Project Overview
+Objective: To detect hate speech in textual data using machine learning algorithms.
+Approach: The project includes data preprocessing, feature extraction, and building classification models to predict whether a given text contains hate speech.
+Techniques Used: Various machine learning algorithms are implemented, including Naive Bayes, Support Vector Machines (SVM), and Logistic Regression.
+📂 Repository Structure
+There are 2 sub folders named LSTM & BERT in which the python script is there, containing the implementation of the hate speech detection models.
+README.md: Project documentation and instructions.
+
+📊 Dataset
+The dataset used for this project contains labeled text samples, categorized as either hate speech or non-hate speech. Each text sample is preprocessed and used to train machine learning models.
+
+🔧 Key Features
+Text Preprocessing: Tokenization, stop word removal, and vectorization using TF-IDF.
+Modeling: Multiple machine learning models, including Naive Bayes, SVM, and Logistic Regression, are trained and evaluated for hate speech detection.
+Evaluation: Models are evaluated using metrics such as accuracy, precision, recall, and F1-score.
