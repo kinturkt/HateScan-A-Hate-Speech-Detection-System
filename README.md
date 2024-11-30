@@ -16,3 +16,7 @@ The dataset used for this project contains labeled text samples, categorized as 
 Text Preprocessing: Tokenization, stop word removal, and vectorization using TF-IDF.
 Modeling: Multiple machine learning models, including Naive Bayes, SVM, and Logistic Regression, are trained and evaluated for hate speech detection.
 Evaluation: Models are evaluated using metrics such as accuracy, precision, recall, and F1-score.
+
+## Author
+[GitHub](https://github.com/kinturkt) <br>
+[LinkedIn](https://www.linkedin.com/in/kintur-shah-a81134210/)
