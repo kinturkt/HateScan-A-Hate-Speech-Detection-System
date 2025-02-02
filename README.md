@@ -4,8 +4,9 @@ This repository contains an implementation of a Hate Speech Detection system usi
 🚀 Project Overview
 Objective: To detect hate speech in textual data using machine learning algorithms.
 Approach: The project includes data preprocessing, feature extraction, and building classification models to predict whether a given text contains hate speech.
-Techniques Used: Various machine learning algorithms are implemented, including Naive Bayes, Support Vector Machines (SVM), and Logistic Regression.
-📂 Repository Structure
+Techniques Used: Various machine learning algorithms are implemented, including Naive Bayes, Support Vector Machines (SVM), and Logistic Regression. <br>
+
+📂 Repository Structure  <br>
 There are 2 sub folders named LSTM & BERT in which the python script is there, containing the implementation of the hate speech detection models.
 README.md: Project documentation and instructions.
 
