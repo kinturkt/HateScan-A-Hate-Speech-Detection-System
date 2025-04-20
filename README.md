@@ -1,5 +1,5 @@
 🛑 Hate Speech Detection:  <br>
-This repository contains an implementation of a Hate Speech Detection system using Machine Learning techniques. The goal of the project is to build a model that can classify text data into hate speech and non-hate speech, helping to automate the detection of harmful language online.
+This repository contains an implementation of a Hate Speech Detection system using Neural Network techniques. The goal of the project is to build a model that can classify text data into hate speech and non-hate speech, helping to automate the detection of harmful language online.
 
 🚀 Project Overview: <br>
 Objective: To detect hate speech in textual data using machine learning algorithms.
